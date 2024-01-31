@@ -1,7 +1,5 @@
 /**
  * @author Amaris Young-Diggs
- * @project Project 6: Morse Code Implentation
- * @class CMSC 256 Section 001
  * @description: this class is the Morse Character which is the letter and string of the
  * morse code. It contains getter and setters to obtain the repsective parameters.
  * It has a compareTo method which sorts based on the morse code, a dot is less than a dash.
